@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name = "mongodb_connect"
+
 
 list_of_files=[
 
